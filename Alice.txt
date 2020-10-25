@@ -1,1 +1,6 @@
-Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+Hi! I'm Alice. I'm a file someone added to
+this repository a while ago.
+I am now learning about git branches and
+its various uses.
+I hope it goes smoothly. :)
+Trying it once more.
