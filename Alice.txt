@@ -6,3 +6,4 @@ I hope it goes smoothly. :)
 Trying it once more.
 Still trying to learn merge with git . :))))))
 I am adding text through browser to this text file . 
+checking pull .
