@@ -5,11 +5,6 @@ its various uses.
 I hope it goes smoothly. :)
 Trying it once more.
 Still trying to learn merge with git . :))))))
-<<<<<<< Updated upstream
-I am adding text through browser to this text file . 
-checking pull .
-=======
 I am adding text through browser to this text file .
-one more change 
->>>>>>> Stashed changes
-once more updating through browser to check merging 
+one more change
+still working on changes .
