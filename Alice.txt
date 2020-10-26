@@ -12,3 +12,4 @@ checking pull .
 I am adding text through browser to this text file .
 one more change 
 >>>>>>> Stashed changes
+once more updating through browser to check merging 
